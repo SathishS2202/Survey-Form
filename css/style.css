@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(200, 212, 212);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.container{
+    border: 2px solid rgb(226, 223, 223);
+    padding: 25px;
+    height: 630px;
+    width: 850px;
+    background-color:rgb(228, 224, 224) ;
+    color: black;
+}
+input{
+    border-radius: 2px solid black;
+}
+.img1{
+    margin-left: 200px;
+    margin-top: -20px;
+    border: 0px;
+    opacity: 1;
+    
+}
+img{
+    margin-top:10px;
+    display: block;
+}
+label{
+    margin-top: 5px;
+}
+.check{
+    margin-top: 10px;
+}
+button{
+     margin-top: 20px;
+     border-radius: 10px;
+     border-color: white;
+     box-shadow: white;
+     width:100%;
+     background-color: rgb(245, 94, 40);
+     color: white;
+     padding: 10PX;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input[type="checkbox"] {
+    margin-right: 10px;
+}
